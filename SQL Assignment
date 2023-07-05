@@ -4960,4 +4960,4 @@ insert into company_pages VALUES (1,'The Data Science Podcast',8000),(2,'Airbnb'
 select * from company_pages;
 
 
---Write a query to return the IDs of these LinkedIn power creators in ascending order.
+
